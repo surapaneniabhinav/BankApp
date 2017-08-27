@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74f3f0f5-b540-4d30-886d-b75ecf69ddc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/servlet/AccountsListServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/servlet/CreateAccountServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/main/servlet/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/accountsList.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_47.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/WEB-INF/lib/servlet-api-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/WEB-INF/lib/tomcat-servlet-api-7.0.47.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/example/servlet/DeleteAccountServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/example/servlet/DeleteAccountServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/example/servlet/FindBalanceServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/example/servlet/FindBalanceServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/example/servlet/FirstServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/example/servlet/FirstServlet.class" />
@@ -21,16 +11,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/example/servlet/FindBalanceServlet.class" afterPath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/example/servlet/FindBalanceServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/example/servlet/FirstServlet.class" afterPath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/example/servlet/FirstServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/example/servlet/SecondServlet.class" afterPath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/example/servlet/SecondServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/test_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/test_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/newAccount.html" afterPath="$PROJECT_DIR$/src/main/webapp/newAccount.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test/newAccount.html" afterPath="$PROJECT_DIR$/target/test/newAccount.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -423,12 +408,20 @@
       <workItem from="1503428696385" duration="1729000" />
       <workItem from="1503513987528" duration="2359000" />
       <workItem from="1503793370752" duration="2878000" />
-      <workItem from="1503796353895" duration="2734000" />
+      <workItem from="1503796353895" duration="2788000" />
     </task>
+    <task id="LOCAL-00001" summary="acc list and maven depenency added">
+      <created>1503799136082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503799136082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30849000" />
+    <option name="totallyTimeSpent" value="30903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -469,6 +462,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="acc list and maven depenency added" />
+    <option name="LAST_COMMIT_MESSAGE" value="acc list and maven depenency added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
