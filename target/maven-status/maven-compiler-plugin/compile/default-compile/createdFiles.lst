@@ -1,4 +1,7 @@
+com\main\servlet\Account.class
 com\example\servlet\FindBalanceServlet.class
 com\example\servlet\SecondServlet.class
-com\example\servlet\DeleteAccountServlet.class
+com\example\servlet\AccountsListServlet.class
+com\example\servlet\CreateAccountServlet.class
 com\example\servlet\FirstServlet.class
+com\example\servlet\DeleteAccountServlet.class

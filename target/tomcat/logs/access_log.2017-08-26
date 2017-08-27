@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:52:46 -0400] "GET / HTTP/1.1" 200 57 http-bio-8082-exec-1 898
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:52:46 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8082-exec-2 2
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:53:09 -0400] "GET /deleteAccountServlet?firstName=v&lastName=g HTTP/1.1" 200 15 http-bio-8082-exec-3 137
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:53:17 -0400] "GET /deleteAccountServlet?firstName=s&lastName=c HTTP/1.1" 200 15 http-bio-8082-exec-4 145
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:53:31 -0400] "GET /deleteAccountServlet?firstName=a&lastName=b HTTP/1.1" 200 15 http-bio-8082-exec-5 151
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:53:44 -0400] "GET /deleteAccountServlet?firstName=aaaa&lastName=bbb HTTP/1.1" 200 15 http-bio-8082-exec-6 142
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:54:00 -0400] "GET /deleteAccountServlet?firstName=aaa&lastName=xcvbkjm HTTP/1.1" 200 15 http-bio-8082-exec-7 16
+0:0:0:0:0:0:0:1 - - [26/Aug/2017:21:54:28 -0400] "GET /deleteAccountServlet?firstName=aaaa&lastName=xcvbkjm HTTP/1.1" 200 15 http-bio-8082-exec-8 135
